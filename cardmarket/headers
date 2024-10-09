@@ -1,0 +1,20 @@
+fetch("https://www.cardmarket.com/fr/OnePiece/Products/Singles?site=1", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "cache-control": "max-age=0",
+    "priority": "u=0, i",
+    "sec-ch-ua": "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "cookie": "PHPSESSID=bc0flrb97bhrvnn3j6je7u5i9i; __cf_bm=YoV421GDlNGjlfft0fG9uFFGb7U0wHBMcoQuBl7oE6c-1727373387-1.0.1.1-pvp2l1T_gSwg5ivibxyqDfgWtm9QUS38xvwDIaG2Qipa_5XKEcU3GpE.I3GN8q5LNrdImT2nyTWErYBS7PDbCA; _cfuvid=7aNy37DYECqam4CUMuuMSe_IikQ69w9z5Zj26yArWZ0-1727373387292-0.0.1.1-604800000; _fbp=fb.1.1727373386878.717045852635629413; cookie_settings=preferences%3D1%2Cstatistics%3D1%2Cmarketing%3D1; _vwo_uuid_v2=D8C0AAAB7FE7E1ECE937B090F0069B677|ab5d7899c0869e98400a1aa080553e82; _ga=GA1.1.1754315833.1727373408; _gcl_au=1.1.1007041771.1727373408; _vwo_ssm=1; _vis_opt_s=1%7C; _vis_opt_test_cookie=1; _vwo_uuid=D8C0AAAB7FE7E1ECE937B090F0069B677; _vwo_sn=0%3A1; _vwo_ds=3%3At_0%2Ca_0%3A0%241727373408%3A94.59735585%3A%3A62_0%2C61_0%2C60_0%2C59_0%2C58_0%2C48_0%2C45_0%3A167_0%2C44_0%2C16_0%2C1_0%3A1; _ga_G8GDQ4EM48=GS1.1.1727373407.1.1.1727373409.58.0.0"
+  },
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET"
+});

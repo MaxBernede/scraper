@@ -1,0 +1,1310 @@
+[
+    {
+      "id": "0",
+      "name": "All"
+    },
+    {
+      "id": "5402",
+      "name": "151"
+    },
+    {
+      "id": "4345",
+      "name": "25th Anniversary Collection"
+    },
+    {
+      "id": "4346",
+      "name": "25th Anniversary Edition"
+    },
+    {
+      "id": "5877",
+      "name": "ADV Expansion Pack"
+    },
+    {
+      "id": "4280",
+      "name": "Advent of Arceus"
+    },
+    {
+      "id": "3951",
+      "name": "Alolan Moonlight"
+    },
+    {
+      "id": "3801",
+      "name": "Alter Genesis"
+    },
+    {
+      "id": "1660",
+      "name": "Ancient Origins"
+    },
+    {
+      "id": "5478",
+      "name": "Ancient Roar"
+    },
+    {
+      "id": "1537",
+      "name": "Aquapolis"
+    },
+    {
+      "id": "1565",
+      "name": "Arceus"
+    },
+    {
+      "id": "4979",
+      "name": "Astral Radiance"
+    },
+    {
+      "id": "3926",
+      "name": "Awakened Heroes"
+    },
+    {
+      "id": "4508",
+      "name": "Awakening Legends"
+    },
+    {
+      "id": "4004",
+      "name": "Awakening Psychic King"
+    },
+    {
+      "id": "4024",
+      "name": "Bandit Ring"
+    },
+    {
+      "id": "5021",
+      "name": "Base Expansion Pack"
+    },
+    {
+      "id": "1523",
+      "name": "Base Set"
+    },
+    {
+      "id": "1527",
+      "name": "Base Set 2"
+    },
+    {
+      "id": "4441",
+      "name": "Battle Region"
+    },
+    {
+      "id": "3675",
+      "name": "Battle Styles"
+    },
+    {
+      "id": "4286",
+      "name": "Beat of the Frontier"
+    },
+    {
+      "id": "1571",
+      "name": "Black & White"
+    },
+    {
+      "id": "4214",
+      "name": "Black Collection"
+    },
+    {
+      "id": "4014",
+      "name": "Blue Shock"
+    },
+    {
+      "id": "4330",
+      "name": "Blue Sky Stream"
+    },
+    {
+      "id": "4289",
+      "name": "Bonds to the End of Time"
+    },
+    {
+      "id": "1577",
+      "name": "Boundaries Crossed"
+    },
+    {
+      "id": "1687",
+      "name": "BREAKpoint"
+    },
+    {
+      "id": "1678",
+      "name": "BREAKthrough"
+    },
+    {
+      "id": "4434",
+      "name": "Brilliant Stars"
+    },
+    {
+      "id": "1824",
+      "name": "Burning Shadows"
+    },
+    {
+      "id": "1570",
+      "name": "Call of Legends"
+    },
+    {
+      "id": "4347",
+      "name": "Celebrations"
+    },
+    {
+      "id": "2320",
+      "name": "Celestial Storm"
+    },
+    {
+      "id": "4467",
+      "name": "Challenge from the Darkness"
+    },
+    {
+      "id": "3886",
+      "name": "Champion Road"
+    },
+    {
+      "id": "3419",
+      "name": "Champion’s Path"
+    },
+    {
+      "id": "4174",
+      "name": "Chilling Reign"
+    },
+    {
+      "id": "4261",
+      "name": "Clash at the Summit"
+    },
+    {
+      "id": "5713",
+      "name": "Clash of the Blue Sky"
+    },
+    {
+      "id": "5315",
+      "name": "Clay Burst"
+    },
+    {
+      "id": "4194",
+      "name": "Cold Flare"
+    },
+    {
+      "id": "3966",
+      "name": "Collection Moon"
+    },
+    {
+      "id": "3971",
+      "name": "Collection Sun"
+    },
+    {
+      "id": "4064",
+      "name": "Collection X"
+    },
+    {
+      "id": "4059",
+      "name": "Collection Y"
+    },
+    {
+      "id": "2644",
+      "name": "Cosmic Eclipse"
+    },
+    {
+      "id": "5636",
+      "name": "Crimson Haze"
+    },
+    {
+      "id": "1843",
+      "name": "Crimson Invasion"
+    },
+    {
+      "id": "4507",
+      "name": "Crossing the Ruins..."
+    },
+    {
+      "id": "5201",
+      "name": "Crown Zenith"
+    },
+    {
+      "id": "3994",
+      "name": "Cruel Traitor"
+    },
+    {
+      "id": "4305",
+      "name": "Cry from the Mysterious"
+    },
+    {
+      "id": "5574",
+      "name": "Cyber Judge"
+    },
+    {
+      "id": "1575",
+      "name": "Dark Explorers"
+    },
+    {
+      "id": "3861",
+      "name": "Dark Order"
+    },
+    {
+      "id": "5048",
+      "name": "Dark Phantasma"
+    },
+    {
+      "id": "4204",
+      "name": "Dark Rush"
+    },
+    {
+      "id": "3199",
+      "name": "Darkness Ablaze"
+    },
+    {
+      "id": "3936",
+      "name": "Darkness that Consumes Light"
+    },
+    {
+      "id": "4509",
+      "name": "Darkness, and to Light..."
+    },
+    {
+      "id": "4308",
+      "name": "Dawn Dash"
+    },
+    {
+      "id": "2438",
+      "name": "Detective Pikachu"
+    },
+    {
+      "id": "1555",
+      "name": "Diamond & Pearl"
+    },
+    {
+      "id": "3836",
+      "name": "Double Blaze"
+    },
+    {
+      "id": "1648",
+      "name": "Double Crisis"
+    },
+    {
+      "id": "4200",
+      "name": "Dragon Blade"
+    },
+    {
+      "id": "4201",
+      "name": "Dragon Blast"
+    },
+    {
+      "id": "2351",
+      "name": "Dragon Majesty"
+    },
+    {
+      "id": "4203",
+      "name": "Dragon Selection"
+    },
+    {
+      "id": "3891",
+      "name": "Dragon Storm"
+    },
+    {
+      "id": "1636",
+      "name": "Dragon Vault"
+    },
+    {
+      "id": "1576",
+      "name": "Dragons Exalted"
+    },
+    {
+      "id": "3806",
+      "name": "Dream League"
+    },
+    {
+      "id": "4239",
+      "name": "Eevee Heroes"
+    },
+    {
+      "id": "4240",
+      "name": "Eevee Heroes VMAX Special Set"
+    },
+    {
+      "id": "4029",
+      "name": "Emerald Break"
+    },
+    {
+      "id": "1572",
+      "name": "Emerging Powers"
+    },
+    {
+      "id": "1742",
+      "name": "Evolutions"
+    },
+    {
+      "id": "4328",
+      "name": "Evolving Skies"
+    },
+    {
+      "id": "4180",
+      "name": "EX Battle Boost"
+    },
+    {
+      "id": "1552",
+      "name": "EX Crystal Guardians"
+    },
+    {
+      "id": "1549",
+      "name": "EX Delta Species"
+    },
+    {
+      "id": "1546",
+      "name": "EX Deoxys"
+    },
+    {
+      "id": "1541",
+      "name": "EX Dragon"
+    },
+    {
+      "id": "1553",
+      "name": "EX Dragon Frontiers"
+    },
+    {
+      "id": "1547",
+      "name": "EX Emerald"
+    },
+    {
+      "id": "1544",
+      "name": "EX FireRed & LeafGreen"
+    },
+    {
+      "id": "1543",
+      "name": "EX Hidden Legends"
+    },
+    {
+      "id": "1551",
+      "name": "EX Holon Phantoms"
+    },
+    {
+      "id": "1550",
+      "name": "EX Legend Maker"
+    },
+    {
+      "id": "1554",
+      "name": "EX Power Keepers"
+    },
+    {
+      "id": "1539",
+      "name": "EX Ruby & Sapphire"
+    },
+    {
+      "id": "1540",
+      "name": "EX Sandstorm"
+    },
+    {
+      "id": "5219",
+      "name": "ex Starter Set Fuecoco & Ampharos ex"
+    },
+    {
+      "id": "5220",
+      "name": "ex Starter Set Quaxly & Mimikyu ex"
+    },
+    {
+      "id": "5218",
+      "name": "ex Starter Set Sprigatito & Lucario ex"
+    },
+    {
+      "id": "1542",
+      "name": "EX Team Magma vs Team Aqua"
+    },
+    {
+      "id": "1545",
+      "name": "EX Team Rocket Returns"
+    },
+    {
+      "id": "1548",
+      "name": "EX Unseen Forces"
+    },
+    {
+      "id": "4169",
+      "name": "Expansion Pack"
+    },
+    {
+      "id": "3989",
+      "name": "Expansion Pack 20th Anniversary"
+    },
+    {
+      "id": "1536",
+      "name": "Expedition Base Set"
+    },
+    {
+      "id": "3219",
+      "name": "Explosive Flame Walker"
+    },
+    {
+      "id": "3946",
+      "name": "Facing a New Trial"
+    },
+    {
+      "id": "3871",
+      "name": "Fairy Rise"
+    },
+    {
+      "id": "1706",
+      "name": "Fates Collide"
+    },
+    {
+      "id": "3999",
+      "name": "Fever-Burst Fighter"
+    },
+    {
+      "id": "1583",
+      "name": "Flashfire"
+    },
+    {
+      "id": "5714",
+      "name": "Flight of Legends"
+    },
+    {
+      "id": "2075",
+      "name": "Forbidden Light"
+    },
+    {
+      "id": "3896",
+      "name": "Forbidden Light JP"
+    },
+    {
+      "id": "1526",
+      "name": "Fossil"
+    },
+    {
+      "id": "4195",
+      "name": "Freeze Bolt"
+    },
+    {
+      "id": "3841",
+      "name": "Full Metal Wall"
+    },
+    {
+      "id": "1584",
+      "name": "Furious Fists"
+    },
+    {
+      "id": "4360",
+      "name": "Fusion Arts"
+    },
+    {
+      "id": "4382",
+      "name": "Fusion Strike"
+    },
+    {
+      "id": "5479",
+      "name": "Future Flash"
+    },
+    {
+      "id": "4039",
+      "name": "Gaia Volcano"
+    },
+    {
+      "id": "4297",
+      "name": "Galactic's Conquest"
+    },
+    {
+      "id": "1693",
+      "name": "Generations"
+    },
+    {
+      "id": "3831",
+      "name": "GG End"
+    },
+    {
+      "id": "4506",
+      "name": "Gold, Silver, to a New World..."
+    },
+    {
+      "id": "5711",
+      "name": "Golden Sky, Silvery Ocean"
+    },
+    {
+      "id": "3826",
+      "name": "Great Detective Pikachu"
+    },
+    {
+      "id": "1558",
+      "name": "Great Encounters"
+    },
+    {
+      "id": "1800",
+      "name": "Guardians Rising"
+    },
+    {
+      "id": "3916",
+      "name": "GX Battle Boost"
+    },
+    {
+      "id": "3856",
+      "name": "GX Ultra Shiny"
+    },
+    {
+      "id": "1530",
+      "name": "Gym Challenge"
+    },
+    {
+      "id": "1529",
+      "name": "Gym Heroes"
+    },
+    {
+      "id": "4208",
+      "name": "Hail Blizzard"
+    },
+    {
+      "id": "1566",
+      "name": "HeartGold & SoulSilver"
+    },
+    {
+      "id": "4273",
+      "name": "HeartGold Collection"
+    },
+    {
+      "id": "2514",
+      "name": "Hidden Fates"
+    },
+    {
+      "id": "5703",
+      "name": "Holon Phantom"
+    },
+    {
+      "id": "5709",
+      "name": "Holon Research Tower"
+    },
+    {
+      "id": "5127",
+      "name": "Incandescent Arcana"
+    },
+    {
+      "id": "3274",
+      "name": "Infinity Zone"
+    },
+    {
+      "id": "4302",
+      "name": "Intense Fight in the Destroyed Sky"
+    },
+    {
+      "id": "3956",
+      "name": "Islands Await You"
+    },
+    {
+      "id": "4172",
+      "name": "Jet Black Spirit"
+    },
+    {
+      "id": "1525",
+      "name": "Jungle"
+    },
+    {
+      "id": "4466",
+      "name": "Leaders' Stadium"
+    },
+    {
+      "id": "1535",
+      "name": "Legendary Collection"
+    },
+    {
+      "id": "3384",
+      "name": "Legendary Heartbeat"
+    },
+    {
+      "id": "4114",
+      "name": "Legendary Shine Collection"
+    },
+    {
+      "id": "1581",
+      "name": "Legendary Treasures"
+    },
+    {
+      "id": "1560",
+      "name": "Legends Awakened"
+    },
+    {
+      "id": "5094",
+      "name": "Lost Abyss"
+    },
+    {
+      "id": "4262",
+      "name": "Lost Link"
+    },
+    {
+      "id": "5093",
+      "name": "Lost Origin"
+    },
+    {
+      "id": "2370",
+      "name": "Lost Thunder"
+    },
+    {
+      "id": "4124",
+      "name": "Magma Gang VS Aqua Gang: Double Crisis"
+    },
+    {
+      "id": "5869",
+      "name": "Magma VS Aqua: Two Ambitions"
+    },
+    {
+      "id": "1559",
+      "name": "Majestic Dawn"
+    },
+    {
+      "id": "5690",
+      "name": "Mask of Change"
+    },
+    {
+      "id": "3751",
+      "name": "Matchless Fighters"
+    },
+    {
+      "id": "2361",
+      "name": "McDonald's Collection 2018 FR"
+    },
+    {
+      "id": "3354",
+      "name": "McDonald's Collection 2019 FR"
+    },
+    {
+      "id": "3738",
+      "name": "McDonald's Collection 25th Anniversary"
+    },
+    {
+      "id": "5135",
+      "name": "McDonald's Match Battle 2022"
+    },
+    {
+      "id": "5430",
+      "name": "McDonald's Match Battle 2023"
+    },
+    {
+      "id": "4178",
+      "name": "McDonald's Pokémon-e Minimum Pack"
+    },
+    {
+      "id": "4182",
+      "name": "Megalo Cannon"
+    },
+    {
+      "id": "5700",
+      "name": "Miracle Crystal"
+    },
+    {
+      "id": "5873",
+      "name": "Miracle of the Desert"
+    },
+    {
+      "id": "3816",
+      "name": "Miracle Twin"
+    },
+    {
+      "id": "5710",
+      "name": "Mirage Forest"
+    },
+    {
+      "id": "4309",
+      "name": "Moonlit Pursuit"
+    },
+    {
+      "id": "4276",
+      "name": "Movie Commemoration Random Pack"
+    },
+    {
+      "id": "5025",
+      "name": "Mysterious Mountains"
+    },
+    {
+      "id": "1556",
+      "name": "Mysterious Treasures"
+    },
+    {
+      "id": "4464",
+      "name": "Mystery of the Fossils"
+    },
+    {
+      "id": "4069",
+      "name": "Mythical & Legendary Dream Shine Collection"
+    },
+    {
+      "id": "1534",
+      "name": "Neo Destiny"
+    },
+    {
+      "id": "1532",
+      "name": "Neo Discovery"
+    },
+    {
+      "id": "1531",
+      "name": "Neo Genesis"
+    },
+    {
+      "id": "1533",
+      "name": "Neo Revelation"
+    },
+    {
+      "id": "1574",
+      "name": "Next Destinies"
+    },
+    {
+      "id": "3846",
+      "name": "Night Unison"
+    },
+    {
+      "id": "5757",
+      "name": "Night Wanderer"
+    },
+    {
+      "id": "1573",
+      "name": "Noble Victories"
+    },
+    {
+      "id": "5385",
+      "name": "Obsidian Flames"
+    },
+    {
+      "id": "5693",
+      "name": "Offense and Defense of the Furthest Ends"
+    },
+    {
+      "id": "5318",
+      "name": "Paldea Evolved"
+    },
+    {
+      "id": "5546",
+      "name": "Paldean Fates"
+    },
+    {
+      "id": "5156",
+      "name": "Paradigm Trigger"
+    },
+    {
+      "id": "5846",
+      "name": "Paradise Dragona"
+    },
+    {
+      "id": "5444",
+      "name": "Paradox Rift"
+    },
+    {
+      "id": "1521",
+      "name": "Phantom Forces"
+    },
+    {
+      "id": "4044",
+      "name": "Phantom Gate"
+    },
+    {
+      "id": "1580",
+      "name": "Plasma Blast"
+    },
+    {
+      "id": "1579",
+      "name": "Plasma Freeze"
+    },
+    {
+      "id": "4193",
+      "name": "Plasma Gale"
+    },
+    {
+      "id": "1578",
+      "name": "Plasma Storm"
+    },
+    {
+      "id": "1562",
+      "name": "Platinum"
+    },
+    {
+      "id": "5849",
+      "name": "Play! Pokémon Prize Pack Series Five"
+    },
+    {
+      "id": "5620",
+      "name": "Play! Pokémon Prize Pack Series Four"
+    },
+    {
+      "id": "5204",
+      "name": "Play! Pokémon Prize Pack Series One"
+    },
+    {
+      "id": "5431",
+      "name": "Play! Pokémon Prize Pack Series Three"
+    },
+    {
+      "id": "5313",
+      "name": "Play! Pokémon Prize Pack Series Two"
+    },
+    {
+      "id": "4505",
+      "name": "Poké Card Creator Pack"
+    },
+    {
+      "id": "4094",
+      "name": "PokéKyun Collection"
+    },
+    {
+      "id": "5328",
+      "name": "Pokémon Card 151"
+    },
+    {
+      "id": "4168",
+      "name": "Pokémon Card VS"
+    },
+    {
+      "id": "5051",
+      "name": "Pokémon GO"
+    },
+    {
+      "id": "4786",
+      "name": "Pokémon GO Enhanced Expansion Pack"
+    },
+    {
+      "id": "4463",
+      "name": "Pokémon Jungle"
+    },
+    {
+      "id": "1645",
+      "name": "Pokémon Products"
+    },
+    {
+      "id": "1613",
+      "name": "POP Series 1"
+    },
+    {
+      "id": "1614",
+      "name": "POP Series 2"
+    },
+    {
+      "id": "1615",
+      "name": "POP Series 3"
+    },
+    {
+      "id": "1616",
+      "name": "POP Series 4"
+    },
+    {
+      "id": "1617",
+      "name": "POP Series 5"
+    },
+    {
+      "id": "1618",
+      "name": "POP Series 6"
+    },
+    {
+      "id": "1619",
+      "name": "POP Series 7"
+    },
+    {
+      "id": "1620",
+      "name": "POP Series 8"
+    },
+    {
+      "id": "1621",
+      "name": "POP Series 9"
+    },
+    {
+      "id": "4074",
+      "name": "Premium Champion Pack"
+    },
+    {
+      "id": "1585",
+      "name": "Primal Clash"
+    },
+    {
+      "id": "4209",
+      "name": "Psycho Drive"
+    },
+    {
+      "id": "4009",
+      "name": "Rage of the Broken Heavens"
+    },
+    {
+      "id": "5432",
+      "name": "Raging Surf"
+    },
+    {
+      "id": "3697",
+      "name": "Rapid Strike Master"
+    },
+    {
+      "id": "3143",
+      "name": "Rebel Clash"
+    },
+    {
+      "id": "3279",
+      "name": "Rebellion Crash"
+    },
+    {
+      "id": "4210",
+      "name": "Red Collection"
+    },
+    {
+      "id": "4019",
+      "name": "Red Flash"
+    },
+    {
+      "id": "3811",
+      "name": "Remix Bout"
+    },
+    {
+      "id": "4265",
+      "name": "Reviving Legends"
+    },
+    {
+      "id": "4049",
+      "name": "Rising Fist"
+    },
+    {
+      "id": "1563",
+      "name": "Rising Rivals"
+    },
+    {
+      "id": "1649",
+      "name": "Roaring Skies"
+    },
+    {
+      "id": "4465",
+      "name": "Rocket Gang"
+    },
+    {
+      "id": "5712",
+      "name": "Rocket Gang Strikes Back"
+    },
+    {
+      "id": "5409",
+      "name": "Ruler of the Black Flame"
+    },
+    {
+      "id": "5872",
+      "name": "Rulers of the Heavens"
+    },
+    {
+      "id": "5223",
+      "name": "Scarlet & Violet"
+    },
+    {
+      "id": "5351",
+      "name": "Scarlet & Violet ex Special Set"
+    },
+    {
+      "id": "5212",
+      "name": "Scarlet & Violet Promos"
+    },
+    {
+      "id": "5216",
+      "name": "Scarlet ex"
+    },
+    {
+      "id": "4317",
+      "name": "Secret of the Lakes"
+    },
+    {
+      "id": "1557",
+      "name": "Secret Wonders"
+    },
+    {
+      "id": "3294",
+      "name": "Shield"
+    },
+    {
+      "id": "4313",
+      "name": "Shining Darkness"
+    },
+    {
+      "id": "3630",
+      "name": "Shining Fates"
+    },
+    {
+      "id": "1842",
+      "name": "Shining Legends"
+    },
+    {
+      "id": "3931",
+      "name": "Shining Legends JP"
+    },
+    {
+      "id": "4184",
+      "name": "Shiny Collection"
+    },
+    {
+      "id": "3580",
+      "name": "Shiny Star V"
+    },
+    {
+      "id": "5519",
+      "name": "Shiny Treasure ex"
+    },
+    {
+      "id": "3479",
+      "name": "Shocking Volt Tackle"
+    },
+    {
+      "id": "5760",
+      "name": "Shrouded Fable"
+    },
+    {
+      "id": "4171",
+      "name": "Silver Lance"
+    },
+    {
+      "id": "5142",
+      "name": "Silver Tempest"
+    },
+    {
+      "id": "5838",
+      "name": "Simplified Chinese Products"
+    },
+    {
+      "id": "3712",
+      "name": "Single Strike Master"
+    },
+    {
+      "id": "3821",
+      "name": "Sky Legend"
+    },
+    {
+      "id": "3881",
+      "name": "Sky-Splitting Charisma"
+    },
+    {
+      "id": "1538",
+      "name": "Skyridge"
+    },
+    {
+      "id": "5314",
+      "name": "Snow Hazard"
+    },
+    {
+      "id": "4272",
+      "name": "SoulSilver Collection"
+    },
+    {
+      "id": "4974",
+      "name": "Space Juggler"
+    },
+    {
+      "id": "4318",
+      "name": "Space-Time Creation"
+    },
+    {
+      "id": "4186",
+      "name": "Spiral Force"
+    },
+    {
+      "id": "5024",
+      "name": "Split Earth"
+    },
+    {
+      "id": "4440",
+      "name": "Star Birth"
+    },
+    {
+      "id": "1716",
+      "name": "Steam Siege"
+    },
+    {
+      "id": "5802",
+      "name": "Stellar Crown"
+    },
+    {
+      "id": "5782",
+      "name": "Stellar Miracle"
+    },
+    {
+      "id": "1561",
+      "name": "Stormfront"
+    },
+    {
+      "id": "3961",
+      "name": "Strength Expansion Pack Sun & Moon"
+    },
+    {
+      "id": "1745",
+      "name": "Sun & Moon"
+    },
+    {
+      "id": "3324",
+      "name": "Sun & Moon Promos"
+    },
+    {
+      "id": "5901",
+      "name": "Super Electric Breaker"
+    },
+    {
+      "id": "3866",
+      "name": "Super-Burst Impact"
+    },
+    {
+      "id": "1564",
+      "name": "Supreme Victors"
+    },
+    {
+      "id": "5879",
+      "name": "Surging Sparks"
+    },
+    {
+      "id": "3289",
+      "name": "Sword"
+    },
+    {
+      "id": "2921",
+      "name": "Sword & Shield"
+    },
+    {
+      "id": "3214",
+      "name": "Sword & Shield Promos"
+    },
+    {
+      "id": "3851",
+      "name": "Tag Bolt"
+    },
+    {
+      "id": "3776",
+      "name": "Tag Team GX: Tag All Stars"
+    },
+    {
+      "id": "1528",
+      "name": "Team Rocket"
+    },
+    {
+      "id": "2407",
+      "name": "Team Up"
+    },
+    {
+      "id": "4304",
+      "name": "Temple of Anger"
+    },
+    {
+      "id": "5589",
+      "name": "Temporal Forces"
+    },
+    {
+      "id": "3984",
+      "name": "The Best of XY"
+    },
+    {
+      "id": "5022",
+      "name": "The Town on No Map"
+    },
+    {
+      "id": "4185",
+      "name": "Thunder Knuckle"
+    },
+    {
+      "id": "3876",
+      "name": "Thunderclap Spark"
+    },
+    {
+      "id": "4034",
+      "name": "Tidal Storm"
+    },
+    {
+      "id": "4973",
+      "name": "Time Gazer"
+    },
+    {
+      "id": "3941",
+      "name": "To Have Seen the Battle Rainbow"
+    },
+    {
+      "id": "4329",
+      "name": "Towering Perfection"
+    },
+    {
+      "id": "5138",
+      "name": "Trick or Trade"
+    },
+    {
+      "id": "5405",
+      "name": "Trick or Trade 2023"
+    },
+    {
+      "id": "5796",
+      "name": "Trick or Trade 2024"
+    },
+    {
+      "id": "5257",
+      "name": "Triplet Beat"
+    },
+    {
+      "id": "1569",
+      "name": "Triumphant"
+    },
+    {
+      "id": "5691",
+      "name": "Twilight Masquerade"
+    },
+    {
+      "id": "3901",
+      "name": "Ultra Force"
+    },
+    {
+      "id": "3906",
+      "name": "Ultra Moon"
+    },
+    {
+      "id": "2065",
+      "name": "Ultra Prism"
+    },
+    {
+      "id": "3911",
+      "name": "Ultra Sun"
+    },
+    {
+      "id": "3921",
+      "name": "Ultradimensional Beasts"
+    },
+    {
+      "id": "2437",
+      "name": "Unbroken Bonds"
+    },
+    {
+      "id": "1568",
+      "name": "Undaunted"
+    },
+    {
+      "id": "5864",
+      "name": "Undone Seal"
+    },
+    {
+      "id": "2487",
+      "name": "Unified Minds"
+    },
+    {
+      "id": "1567",
+      "name": "Unleashed"
+    },
+    {
+      "id": "5217",
+      "name": "Violet ex"
+    },
+    {
+      "id": "3484",
+      "name": "Vivid Voltage"
+    },
+    {
+      "id": "4390",
+      "name": "VMAX Climax"
+    },
+    {
+      "id": "3284",
+      "name": "VMAX Rising"
+    },
+    {
+      "id": "5098",
+      "name": "VSTAR Special Set"
+    },
+    {
+      "id": "5198",
+      "name": "VSTAR Universe"
+    },
+    {
+      "id": "4213",
+      "name": "White Collection"
+    },
+    {
+      "id": "4054",
+      "name": "Wild Blaze"
+    },
+    {
+      "id": "5573",
+      "name": "Wild Force"
+    },
+    {
+      "id": "5023",
+      "name": "Wind from the Sea"
+    },
+    {
+      "id": "1582",
+      "name": "XY"
+    },
+    {
+      "id": "4159",
+      "name": "XY Promos"
+    }
+  ]
